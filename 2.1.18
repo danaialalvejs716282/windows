@@ -1,0 +1,19 @@
+{
+  "version": "2.1.18",
+  "notes": "测试升级",
+  "pub_date": "2024-04-19T13:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2M3WXdCeStkQ2VWeFh5S25TeVFyZVZ0YTVNN20wY054cFU1ekVKZjBmUEV3NDhmZnR0SUZMbUt5K0t6SHYrcHBRNko3SUs2T1g1bHZOTktsRHV2RDl3SFl5QUsyT3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNTMxMjI2CWZpbGU6cWlsaWFvLmFwcC50YXIuZ3oKclFCNFNkOVVHbDVVT3BWc2RhUko2ci8yNWtkWk1NR0xhUmhrNEt6aFNlcmpzYjRWM0RIMFgvUjh1TEMvR2x1U1hOdW9WKy8vazhoU0ZiYWtjM3JSQVE9PQo=",
+      "url": "https://app.24hyyls.com/qiliao/tauri/qiliao.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2M3WXdCeStkQ2VWeFh5S25TeVFyZVZ0YTVNN20wY054cFU1ekVKZjBmUEV3NDhmZnR0SUZMbUt5K0t6SHYrcHBRNko3SUs2T1g1bHZOTktsRHV2RDl3SFl5QUsyT3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNTMxMjI2CWZpbGU6cWlsaWFvLmFwcC50YXIuZ3oKclFCNFNkOVVHbDVVT3BWc2RhUko2ci8yNWtkWk1NR0xhUmhrNEt6aFNlcmpzYjRWM0RIMFgvUjh1TEMvR2x1U1hOdW9WKy8vazhoU0ZiYWtjM3JSQVE9PQo=",
+      "url": "https://app.24hyyls.com/qiliao/tauri/qiliao.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZit4Z3V5Vm0zQVk0a0F0SjRLWUVxWkVXMmVFOVFORDdyRmVXTUlYOGsyWWlLNVM5cDVwMmIwenBZSGhHWE9QdjNYNW1uRVFPKzZ3eDZIY2ZXRU1SbTFaeHlPTW9UalFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNTA2MjE4CWZpbGU6UWlMaWFvX3Rlc3Rfd2luXzIuMS4xOF94NjQtc2V0dXAubnNpcy56aXAKTmxnazFNN25CZWNIdkNsNWtldUdlT0pwalRBcU5xSXZ0VDVsZTExS1JLVjh1UEUyejVPYVpqZWlRNXlXWkRibHZIZUFkcVBvN3BFMGRuTVBSOXd2Q2c9PQo=",
+      "url": "https://app.24hyyls.com/qiliao/tauri/qiliao_2.1.18_x64_en-US.msi.zip"
+    }
+  }
+}
